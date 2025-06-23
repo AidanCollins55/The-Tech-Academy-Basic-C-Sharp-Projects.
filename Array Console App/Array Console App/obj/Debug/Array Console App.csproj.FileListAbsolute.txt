@@ -1,0 +1,7 @@
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Array Console App\Array Console App\bin\Debug\Array Console App.exe.config
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Array Console App\Array Console App\bin\Debug\Array Console App.exe
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Array Console App\Array Console App\bin\Debug\Array Console App.pdb
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Array Console App\Array Console App\obj\Debug\Array Console App.csproj.AssemblyReference.cache
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Array Console App\Array Console App\obj\Debug\Array Console App.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Array Console App\Array Console App\obj\Debug\Array Console App.exe
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Array Console App\Array Console App\obj\Debug\Array Console App.pdb
