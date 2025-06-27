@@ -1,0 +1,7 @@
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Class Assignment\Class Assignment\bin\Debug\Class Assignment.exe.config
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Class Assignment\Class Assignment\bin\Debug\Class Assignment.exe
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Class Assignment\Class Assignment\bin\Debug\Class Assignment.pdb
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Class Assignment\Class Assignment\obj\Debug\Class Assignment.csproj.AssemblyReference.cache
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Class Assignment\Class Assignment\obj\Debug\Class Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Class Assignment\Class Assignment\obj\Debug\Class Assignment.exe
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Class Assignment\Class Assignment\obj\Debug\Class Assignment.pdb
