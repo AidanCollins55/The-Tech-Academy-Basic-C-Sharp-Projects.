@@ -1,0 +1,7 @@
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Paramaters\Paramaters\bin\Debug\Paramaters.exe.config
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Paramaters\Paramaters\bin\Debug\Paramaters.exe
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Paramaters\Paramaters\bin\Debug\Paramaters.pdb
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Paramaters\Paramaters\obj\Debug\Paramaters.csproj.AssemblyReference.cache
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Paramaters\Paramaters\obj\Debug\Paramaters.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Paramaters\Paramaters\obj\Debug\Paramaters.exe
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Paramaters\Paramaters\obj\Debug\Paramaters.pdb
