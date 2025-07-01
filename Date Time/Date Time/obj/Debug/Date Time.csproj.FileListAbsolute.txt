@@ -1,0 +1,7 @@
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Date Time\Date Time\bin\Debug\Date Time.exe.config
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Date Time\Date Time\bin\Debug\Date Time.exe
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Date Time\Date Time\bin\Debug\Date Time.pdb
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Date Time\Date Time\obj\Debug\Date Time.csproj.AssemblyReference.cache
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Date Time\Date Time\obj\Debug\Date Time.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Date Time\Date Time\obj\Debug\Date Time.exe
+C:\Users\Aidan\Desktop\Basic_C#_Programs\Date Time\Date Time\obj\Debug\Date Time.pdb
