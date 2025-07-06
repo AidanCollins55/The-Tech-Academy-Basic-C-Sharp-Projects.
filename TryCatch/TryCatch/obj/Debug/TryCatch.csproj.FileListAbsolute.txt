@@ -1,0 +1,7 @@
+C:\Users\Aidan\Desktop\Basic_C#_Programs\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\Aidan\Desktop\Basic_C#_Programs\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\Aidan\Desktop\Basic_C#_Programs\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\Aidan\Desktop\Basic_C#_Programs\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+C:\Users\Aidan\Desktop\Basic_C#_Programs\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\Desktop\Basic_C#_Programs\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\Aidan\Desktop\Basic_C#_Programs\TryCatch\TryCatch\obj\Debug\TryCatch.pdb
