@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@page
+@model ServerTimeApp.Pages.IndexModel
+@{
+    ViewData["Title"] = "Server Time";
+}
+
+<h1>Current Server Time</h1>
+
+<p>The current server time is:</p>
+<h2>It is now @Model.ServerTime on the server</h2>
+
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using System;
+
+namespace ServerTimeApp.Pages
+{
+    public class IndexModel : PageModel
+    {
+        public string ServerTime { get; private set; }
+
+        public void OnGet()
+        {
+            ServerTime = DateTime.Now.ToString("F"); // Full date/time pattern
+        }
+    }
+}
